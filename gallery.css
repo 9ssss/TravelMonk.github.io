@@ -1,0 +1,127 @@
+header{
+   background-color: rgb(26, 23, 2);
+   
+    height: 300%;
+    background-size: cover;
+    background-position: center;
+    
+}
+    .ser,.gall {
+        position: absolute;
+        top : 5%;
+        left:2%;
+        background-color: rgba(5, 2, 5, 0.897)158, 115);
+        background-position: inherit;
+        color: rgb(241, 234, 228);
+        font-size:30px;  
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .ser1,.gall1,.abo1{
+        position: absolute ;
+        top: 50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+        outline-color: rgb(141, 20, 255);
+        backface-visibility: initial;
+        align-content: center;
+        background-origin: padding-box;
+        contain: style;
+        color: rgb(255, 134, 20);
+        font-size:20px;  
+      }
+      .ser2{
+       
+          max-width: 200px;
+          min-height: 100px;
+          background-color: rgb(10, 10, 10);
+          background-origin: padding-box;
+      }
+      .ser3{
+          top: auto;
+          float: left;
+        max-width: 200px;
+        min-height: 100px;
+        background-color: azure;
+       background-origin: padding-box;
+       text-anchor: middle;
+
+    }
+    .button{
+        position:absolute;
+        top :250%;
+        left: 50%;
+        transform:translate(-50%,-50%);
+        box-shadow:0 0 10px #f6fafd,0 0 40px #f6fafd, 0 0 80px #f6fafd;
+    }
+    .btn{
+        border:1px solid #fff;
+        padding:10px 30px;
+        color:#fff;
+        text-decoration:none ;
+        transition:0.6s ease;
+    }
+    .btn:hover{
+        background-color:#fff;
+        color: #000;
+    }
+    .col1{
+        position: absolute;
+        top: 20%;
+        left:5%;
+        transform:translate(-50%,-50%); 
+    }
+    .col2{
+        position: absolute;
+        top: 100%;
+        left:50%;
+        transform:translate(-50%,-50%); 
+    }
+    .col3{
+        position: absolute;
+        top: 60%;
+        left:80%;
+        transform:translate(-50%,-50%); 
+    }
+    .col4{
+        position: absolute;
+        top: 20%;
+        left:80%;
+        transform:translate(-50%,-50%); 
+    }
+    .col5{
+        position: absolute;
+        top: 20%;
+        left:50%;
+        transform:translate(-50%,-50%); 
+    }
+    .col6{
+        position: absolute;
+        top: 60%;
+        left:50%;
+        transform:translate(-50%,-50%); 
+    }
+    .col7{
+        position: absolute;
+        top: 100%;
+        left:80%;
+        transform:translate(-50%,-50%); 
+    }
+    .col8{
+        position: absolute;
+        top: 100%;
+        left:0%;
+        transform:translate(-50%,-50%); 
+    }
+    .col9{
+        position: absolute;
+        top: 220%;
+        left:10%;
+        transform:translate(-50%,-50%); 
+    }
+    .col10{
+        position: absolute;
+        top: 220%;
+        left:90%;
+        transform:translate(-50%,-50%); 
+    }
+    
